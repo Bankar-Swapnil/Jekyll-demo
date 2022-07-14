@@ -1,0 +1,46 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "h1": "Free Online  Adjustments Tools - Safeimagekit",
+  "h2": "No files are sent to server. 100% safe.",
+  "TITLE": "Free Online Adjustments Tools - Safeimagekit",
+  "META": "Free and Easy to use online image effects. Try the  effect.",
+  "keywords": "",
+  "features": [
+    {
+      "name": "Adjust Brightness",
+      "description": "You can freely adjust image brightness an unlimited number of times",
+      "color": "#6666ff",
+      "icon": "/img/home/brightness.svg",
+      "url": "/feature"
+    },
+    {
+      "name": "Adjust Blur",
+      "description": "Free online tool for adjusting image blur",
+      "color": "#ad81ee",
+      "icon": "/img/home/blur.svg",
+      "url": "/feature2"
+    },
+    {
+      "name": "Adjust Contrast",
+      "description": "Adjust image contrast using a simple and free online tool",
+      "color": "#ff6666",
+      "icon": "/img/home/contrast.png",
+      "url": "/feature3"
+    },
+    {
+      "name": "Adjust Grayscale",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "/img/home/adjust.png",
+      "url": "/feature4"
+    },
+    {
+      "name": "Adjust Invert",
+      "description": "Free online tool for quickly reversing the colours of your images.",
+      "color": "#ff9966",
+      "icon": "/img/home/invert.png",
+      "url": "/feature5"
+    }
+  ]
+}
